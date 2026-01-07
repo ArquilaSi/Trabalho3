@@ -1,4 +1,4 @@
-doaores = []
+doadores = []
 alimentos = []
 
 while True:
